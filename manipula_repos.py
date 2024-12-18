@@ -38,7 +38,7 @@ class ManipulaRepositorios:
         print(f'status_code upload do arquivo: {response.status_code}')
 
 # instanciando um objeto
-novo_repo = ManipulaRepositorios('Drindao')
+novo_repo = ManipulaRepositorios('pedrodumont')
 
 # Criando o repositório
 nome_repo = 'linguagens-repositorios-empresas'
